@@ -15,7 +15,7 @@ GRH learns effective hash functions for approximate nearest neighbour search usi
 3. liblinear: https://www.csie.ntu.edu.tw/~cjlin/liblinear/
 4. BudgetedSVM: http://www.dabi.temple.edu/budgetedsvm/
 
-Compile both libraries for your machine and place in the grh/libraries directory.
+Compile the three SVM libraries for your machine and place in the grh/libraries directory.
 
 If you use the GRH code for a publication, please cite the following paper:
 
