@@ -4,7 +4,7 @@ Current version: 0.1. Distributed under a Creative Commons Attribution-NonCommer
 
 This code is an implementation of the Graph Regularised Hashing model described in the publication:
 
-[Graph Regularised Hashing. Sean Moran and Victor Lavrenko. European Conference on Information Retrieval, 2015.](http://link.springer.com/chapter/10.1007%2F978-3-319-16354-3_15#page-1)
+[Graph Regularised Hashing. Sean Moran and Victor Lavrenko. In ECIR'15.](http://link.springer.com/chapter/10.1007%2F978-3-319-16354-3_15#page-1)
 
 GRH learns effective hash functions for approximate nearest neighbour search using a modicum of supervision. The model achieves state-of-the-art retrieval effectiveness on standard image datasets.
 
