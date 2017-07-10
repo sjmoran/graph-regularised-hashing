@@ -1,4 +1,4 @@
-#Graph Regularised Hashing (GRH)
+# Graph Regularised Hashing (GRH)
 
 Current version: 0.1. Distributed under a Creative Commons Attribution-NonCommercial License: http://creativecommons.org/licenses/by-nc/4.0/deed.en_US
 
@@ -8,7 +8,7 @@ This code is an implementation of the Graph Regularised Hashing model described 
 
 GRH learns effective hash functions for approximate nearest neighbour search using a modicum of supervision. The model achieves state-of-the-art retrieval effectiveness on standard image datasets.
 
-#Prerequisites:
+## Prerequisites:
 
 1. MATLAB
 2. libSVM: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
@@ -35,7 +35,7 @@ pages={135-146},
 language={English}
 }
 
-#Usage
+## Usage
 
 1. Obtain the pre-processed dataset files for MNIST, CIFAR-10 and NUSWIDE here:
 https://www.dropbox.com/sh/pvso066sqd2z8ja/AABu7dxMx92lhlLLXLUpg_jMa?dl=0
@@ -46,7 +46,7 @@ https://www.dropbox.com/sh/pvso066sqd2z8ja/AABu7dxMx92lhlLLXLUpg_jMa?dl=0
 
 4. run_hash.m
 
-#Copyright
+## Copyright
 
 Copyright (C) by Sean Moran, University of Edinburgh
 
