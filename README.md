@@ -19,6 +19,7 @@ Compile the three SVM libraries for your machine and place in the grh/libraries 
 
 If you use the GRH code for a publication, please cite the following paper:
 
+```
 @incollection{
 year={2015},
 isbn={978-3-319-16353-6},
@@ -34,6 +35,7 @@ author={Moran, Sean and Lavrenko, Victor},
 pages={135-146},
 language={English}
 }
+```
 
 ## Usage
 
