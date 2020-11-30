@@ -1,6 +1,6 @@
 # Graph Regularised Hashing (GRH)
 
-Current version: 0.1. Distributed under a Creative Commons Attribution-NonCommercial License: http://creativecommons.org/licenses/by-nc/4.0/deed.en_US
+Current version: 1.0. Distributed under a Creative Commons Attribution-NonCommercial License: http://creativecommons.org/licenses/by-nc/4.0/deed.en_US
 
 This code is an implementation of the Graph Regularised Hashing model described in the publication:
 
@@ -17,7 +17,7 @@ GRH learns effective hash functions for approximate nearest neighbour search usi
 
 Compile the three SVM libraries for your machine and place in the grh/libraries directory.
 
-If you use the GRH code for a publication, please cite the following paper:
+If you use the GRH code for a publication, please consider a citation to the following paper:
 
 ```
 @incollection{
